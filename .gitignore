@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+test_env/
+.ipynb_checkpoints/
+.DS_Store
